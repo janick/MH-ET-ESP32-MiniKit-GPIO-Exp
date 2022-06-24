@@ -5,4 +5,6 @@ and other small IoT projects.
 
 ![Schematic](schematic.png)
 
+![Boards](boards.jpg)
+
 Get bare boards directly from OSHPark: https://oshpark.com/shared_projects/CoKjk6w7
