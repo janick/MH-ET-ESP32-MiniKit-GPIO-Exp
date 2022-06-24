@@ -13,5 +13,5 @@ Get bare boards directly from OSHPark: https://oshpark.com/shared_projects/CoKjk
 
 * ESP-32 MiniKit: https://www.aliexpress.com/item/2251832629758482.html
 * Power Supply: https://www.aliexpress.com/item/2251832424359134.html
-* MiniKit Capes: https://www.aliexpress.com/item/2251832856833499.html
+* MiniKit Shields: https://www.aliexpress.com/item/2251832856833499.html
 * Screw Terminals: https://www.aliexpress.com/item/2251832756640508.html
