@@ -21,3 +21,7 @@ Get bare boards directly from OSHPark: https://oshpark.com/shared_projects/CoKjk
 * Power Supply: https://www.aliexpress.com/item/2251832424359134.html
 * MiniKit Shields: https://www.aliexpress.com/item/2251832856833499.html
 * Screw Terminals: https://www.aliexpress.com/item/3256802913222907.html
+
+## Stupid Mistakes
+
+* All 6 pins in a row in the prototyping array are connected together. I should have done 3+3 so an IC could be used.
