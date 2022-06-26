@@ -25,3 +25,5 @@ Get bare boards directly from OSHPark: https://oshpark.com/shared_projects/CoKjk
 ## Stupid Mistakes
 
 * All 6 pins in a row in the prototyping array are connected together. I should have done 3+3 so an IC could be used.
+* Make the 5V and A/C traces wider
+* Add protection to the power supply (https://forum.mysensors.org/topic/1607/safe-in-wall-ac-to-dc-transformers)
