@@ -7,8 +7,8 @@ and other small IoT projects.
 
 ![Boards](boards.jpg)
 
-Only the GPIOs on the "inner" rows are routed to the terminals, so there is no need to solder all
-of the pins on the MiniKit.
+All the GPIOs on the "inner" rows are routed to the terminals, so there is no need to solder all
+of the pins on the MiniKit all the time.
 The (optional) NPN transistor (and 10k resistor) can be used to sink an external
 LED that mirrors the on-board LED but that requires that GPIO2 be soldered through as it sits on
 one of the "outer" rows.
@@ -24,6 +24,7 @@ Get bare boards directly from OSHPark: https://oshpark.com/shared_projects/CoKjk
 
 ## Stupid Mistakes
 
+* IO20 labels on the underside should be "IO23".
 * All 6 pins in a row in the prototyping array are connected together. I should have done 3+3 so an IC could be used.
 * Make the 5V and A/C traces wider
 * Add protection to the power supply (https://forum.mysensors.org/topic/1607/safe-in-wall-ac-to-dc-transformers)
